@@ -1,5 +1,5 @@
 # CLI APP
-* This cli app will let you know ```how well your friend *know you*```
+* This cli app will let you know ```how well your friend  know you```
 
 **build in** :  javascript (node.js)
 
@@ -13,4 +13,4 @@
     etc etc</p>
 
 That's it! 
-enjoy the cli app! by clicking <a href=https://repl.it/@thatdevhassan/Who-am-I-CLI?embed=1&output=1#index.js>here</a>
+enjoy the cli app! by clicking the link along with repo!
